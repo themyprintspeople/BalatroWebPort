@@ -44,4 +44,4 @@ The only real mod type that could be used is smodded because its made in lua for
 
 # Conclusion:<br>
 im tired<br>
-go to https://dooble.lat for unblocked school games, Peace<br
+go to https://dooble.lat for unblocked school games, Peace<br>
