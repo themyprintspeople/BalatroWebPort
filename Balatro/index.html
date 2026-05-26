@@ -8,6 +8,13 @@
 
     <!-- Load custom style sheet -->
     <link rel="stylesheet" type="text/css" href="theme/love.css">
+    <script>
+      if (!crossOriginIsolated) {
+        const coi = document.createElement('script');
+        coi.src = 'https://cdn.jsdelivr.net/npm/coi-serviceworker@0.1.7/coi-serviceworker.min.js';
+        document.head.appendChild(coi);
+      }
+    </script>
   </head>
   <body>
     <center>
